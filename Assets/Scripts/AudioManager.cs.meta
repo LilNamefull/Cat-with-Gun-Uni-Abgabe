@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 98b723231f8073646a6637047df51ae6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - musicSource: {instanceID: 0}
+  - SFXSource: {instanceID: 0}
+  - BackgroundTitel: {fileID: 8300000, guid: f797bf544e2ddd44eabb9c8bcc3cda9b, type: 3}
+  - BackgroundLevel: {fileID: 8300000, guid: fc282605e4e87ce4a83dad4e35daed71, type: 3}
+  - BackgroundBoss: {fileID: 8300000, guid: 1187e70e55edac948a508aee95372bc7, type: 3}
+  - DeathPlayer: {instanceID: 0}
+  - DeathEnemy: {instanceID: 0}
+  - ShootPlayer: {instanceID: 0}
+  - ShootEnemy: {instanceID: 0}
+  - EnemyRocketMous: {instanceID: 0}
+  - EnemyMous: {instanceID: 0}
+  - EnemyGangster: {instanceID: 0}
+  - Boss: {instanceID: 0}
+  - PowerUp: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
